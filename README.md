@@ -16,4 +16,4 @@ A passionate Software Engineer focused on building scalable web applications, re
 
 ### 📬 Connect with me:
 - **LinkedIn:** https://www.linkedin.com/in/kyaw-zin-win-aa8194259/
-- **Email:** kyawzinwindev@gmail.com
+- **Email:** kyawzinw469@gmail.com
