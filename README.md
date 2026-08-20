@@ -9,7 +9,7 @@ A passionate Software Engineer focused on building scalable web applications, re
 ### 🚀 Tech Stack & Tools
 - **Backend:** PHP, Laravel (TALL Stack, Reverb), Node.js, RESTful APIs
 - **Frontend:** Livewire, JavaScript, TypeScript, React, Next.js, Tailwind CSS
-- **Database:** MySQL, PostgreSQL
+- **Database:** MySQL, PostgreSQL, MongoDB
 - **Cloud & DevOps:** AWS, Docker, Git
 
 ### 🛠️ Languages & Frameworks
