@@ -1,6 +1,6 @@
 # Hi there, I'm Kyaw Zin Win 
 
-### 👨‍💻 Full-Stack Developer | Laravel & JavaScript Specialist
+### 👨‍💻 Full-Stack Developer | Laravel & Node.js Specialist
 
 A passionate Software Engineer focused on building scalable web applications, real-time architectures, and integrating modern AI services. Currently advancing my technical foundations through NCC Level 5 Computing.
 
