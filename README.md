@@ -4,7 +4,6 @@
 ```text
 [ Client / Web ] ---> [ Nginx / REST APIs ] ---> [ Laravel / NestJS ] ---> [ MySQL / Redis / AWS ]
 ```
-
 #### Building resilient backend systems, real-time architectures, versioned APIs, and modern AI integrations. Currently advancing computer science foundations through a BSc (Hons) Computing (NCC Level 5).
 
 <p>
