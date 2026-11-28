@@ -1,9 +1,7 @@
 ### Kyaw Zin Win
 *Backend & Systems Engineer · Laravel & Node.js*
 
-```text
-[ Client / Web ] ---> [ Nginx / REST APIs ] ---> [ Laravel / NestJS ] ---> [ MySQL / Redis / AWS ]
-```
+> `Client / Web` ➔ `Nginx / REST APIs` ➔ `Laravel / NestJS` ➔ `MySQL / Redis / AWS`
 
 Building resilient backend systems, real-time architectures, versioned APIs, and modern AI integrations. Currently advancing computer science foundations through a BSc (Hons) Computing.
 
